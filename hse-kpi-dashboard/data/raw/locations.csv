@@ -1,0 +1,7 @@
+Location_ID,Location_Name,Location_Type,Department
+L01,MV Atlantic Star,Vessel,Marine Operations
+L02,MV Delta Pioneer,Vessel,Marine Operations
+L03,MV Coastal Venture,Vessel,Marine Operations
+L04,MV Bonny Spirit,Vessel,Marine Operations
+L05,Port Harcourt Office,Shore,Corporate
+L06,Onne Base,Shore,Technical

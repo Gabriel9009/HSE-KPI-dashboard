@@ -1,0 +1,11 @@
+Check,Table,Records_Checked,Issues_Found,Action_Taken
+Duplicate Incident_ID,incidents,248,8,Duplicate rows removed
+Missing Root_Cause,incidents,240,14,Set to 'Not recorded' and flagged for follow-up
+Location_ID not in locations,incidents,240,5,Mapped to L00 'Unassigned'
+Incident date outside reporting period,incidents,240,0,None needed
+Closed_Date before Raised_Date,corrective_actions,304,7,Flagged; excluded from close-out time
+Status Closed but Closed_Date missing,corrective_actions,304,6,Flagged; excluded from close-out time
+Finding without parent audit,findings,185,0,None needed
+Duplicate Audit_ID,audits,60,0,None needed
+Duplicate Finding_ID,findings,185,0,None needed
+Duplicate Action_ID,corrective_actions,304,0,None needed

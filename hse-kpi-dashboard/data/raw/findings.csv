@@ -1,0 +1,186 @@
+Finding_ID,Audit_ID,Finding_Category,Risk_Rating
+FND-0001,AUD-001,Safety Equipment,Low
+FND-0002,AUD-001,Safety Equipment,Medium
+FND-0003,AUD-001,Maintenance,Medium
+FND-0004,AUD-001,Safety Equipment,Low
+FND-0005,AUD-002,Documentation and Records,Low
+FND-0006,AUD-002,Pollution Prevention,Medium
+FND-0007,AUD-003,Crew Competence,Low
+FND-0008,AUD-003,Navigation and Bridge,Low
+FND-0009,AUD-003,Documentation and Records,High
+FND-0010,AUD-003,Maintenance,Low
+FND-0011,AUD-004,Maintenance,Low
+FND-0012,AUD-004,Emergency Preparedness,Low
+FND-0013,AUD-004,Maintenance,Low
+FND-0014,AUD-004,Emergency Preparedness,Low
+FND-0015,AUD-005,Crew Competence,Low
+FND-0016,AUD-005,Navigation and Bridge,Low
+FND-0017,AUD-005,Crew Competence,Low
+FND-0018,AUD-006,Safety Equipment,Low
+FND-0019,AUD-006,Pollution Prevention,Low
+FND-0020,AUD-007,Crew Competence,Low
+FND-0021,AUD-008,Navigation and Bridge,Low
+FND-0022,AUD-008,Navigation and Bridge,Low
+FND-0023,AUD-008,Navigation and Bridge,Medium
+FND-0024,AUD-008,Safety Equipment,Low
+FND-0025,AUD-008,Maintenance,High
+FND-0026,AUD-008,Emergency Preparedness,Low
+FND-0027,AUD-009,Documentation and Records,Low
+FND-0028,AUD-009,Pollution Prevention,Low
+FND-0029,AUD-009,Crew Competence,High
+FND-0030,AUD-009,Emergency Preparedness,Medium
+FND-0031,AUD-009,Maintenance,Medium
+FND-0032,AUD-010,Emergency Preparedness,Low
+FND-0033,AUD-011,Navigation and Bridge,Low
+FND-0034,AUD-012,Emergency Preparedness,Medium
+FND-0035,AUD-012,Emergency Preparedness,Low
+FND-0036,AUD-012,Maintenance,High
+FND-0037,AUD-013,Pollution Prevention,Low
+FND-0038,AUD-013,Navigation and Bridge,Low
+FND-0039,AUD-014,Maintenance,Medium
+FND-0040,AUD-014,Navigation and Bridge,Low
+FND-0041,AUD-014,Crew Competence,Low
+FND-0042,AUD-014,Navigation and Bridge,Low
+FND-0043,AUD-014,Maintenance,Medium
+FND-0044,AUD-014,Emergency Preparedness,Low
+FND-0045,AUD-015,Navigation and Bridge,Low
+FND-0046,AUD-015,Maintenance,High
+FND-0047,AUD-015,Crew Competence,High
+FND-0048,AUD-015,Maintenance,Low
+FND-0049,AUD-016,Safety Equipment,Medium
+FND-0050,AUD-016,Pollution Prevention,Low
+FND-0051,AUD-017,Crew Competence,Medium
+FND-0052,AUD-017,Navigation and Bridge,Low
+FND-0053,AUD-018,Documentation and Records,Low
+FND-0054,AUD-018,Navigation and Bridge,Low
+FND-0055,AUD-019,Maintenance,Low
+FND-0056,AUD-019,Emergency Preparedness,Medium
+FND-0057,AUD-019,Safety Equipment,Medium
+FND-0058,AUD-020,Safety Equipment,Medium
+FND-0059,AUD-020,Emergency Preparedness,Medium
+FND-0060,AUD-020,Emergency Preparedness,Medium
+FND-0061,AUD-021,Documentation and Records,High
+FND-0062,AUD-021,Maintenance,High
+FND-0063,AUD-021,Navigation and Bridge,Medium
+FND-0064,AUD-021,Emergency Preparedness,Low
+FND-0065,AUD-021,Documentation and Records,Medium
+FND-0066,AUD-021,Emergency Preparedness,Low
+FND-0067,AUD-022,Navigation and Bridge,High
+FND-0068,AUD-022,Maintenance,Low
+FND-0069,AUD-022,Safety Equipment,Low
+FND-0070,AUD-023,Pollution Prevention,Low
+FND-0071,AUD-023,Maintenance,High
+FND-0072,AUD-023,Emergency Preparedness,Medium
+FND-0073,AUD-024,Documentation and Records,Low
+FND-0074,AUD-024,Safety Equipment,Medium
+FND-0075,AUD-025,Pollution Prevention,Medium
+FND-0076,AUD-026,Emergency Preparedness,High
+FND-0077,AUD-027,Maintenance,Low
+FND-0078,AUD-027,Emergency Preparedness,High
+FND-0079,AUD-027,Crew Competence,Low
+FND-0080,AUD-027,Documentation and Records,Medium
+FND-0081,AUD-027,Documentation and Records,Low
+FND-0082,AUD-028,Pollution Prevention,High
+FND-0083,AUD-029,Crew Competence,Low
+FND-0084,AUD-029,Emergency Preparedness,Low
+FND-0085,AUD-029,Navigation and Bridge,Low
+FND-0086,AUD-029,Emergency Preparedness,Medium
+FND-0087,AUD-029,Maintenance,Low
+FND-0088,AUD-030,Navigation and Bridge,High
+FND-0089,AUD-030,Documentation and Records,Medium
+FND-0090,AUD-030,Documentation and Records,Low
+FND-0091,AUD-030,Pollution Prevention,Low
+FND-0092,AUD-031,Crew Competence,Low
+FND-0093,AUD-031,Crew Competence,Medium
+FND-0094,AUD-031,Documentation and Records,Low
+FND-0095,AUD-031,Documentation and Records,Medium
+FND-0096,AUD-032,Safety Equipment,Low
+FND-0097,AUD-032,Crew Competence,Low
+FND-0098,AUD-032,Safety Equipment,Low
+FND-0099,AUD-032,Pollution Prevention,Low
+FND-0100,AUD-032,Emergency Preparedness,Medium
+FND-0101,AUD-032,Navigation and Bridge,Low
+FND-0102,AUD-033,Crew Competence,High
+FND-0103,AUD-033,Crew Competence,Medium
+FND-0104,AUD-033,Navigation and Bridge,Low
+FND-0105,AUD-033,Pollution Prevention,Low
+FND-0106,AUD-033,Safety Equipment,High
+FND-0107,AUD-033,Pollution Prevention,High
+FND-0108,AUD-034,Documentation and Records,Medium
+FND-0109,AUD-034,Pollution Prevention,High
+FND-0110,AUD-034,Navigation and Bridge,Low
+FND-0111,AUD-034,Navigation and Bridge,Medium
+FND-0112,AUD-035,Emergency Preparedness,Low
+FND-0113,AUD-035,Documentation and Records,Medium
+FND-0114,AUD-035,Emergency Preparedness,Medium
+FND-0115,AUD-035,Safety Equipment,High
+FND-0116,AUD-035,Emergency Preparedness,Low
+FND-0117,AUD-035,Pollution Prevention,Low
+FND-0118,AUD-036,Documentation and Records,High
+FND-0119,AUD-036,Navigation and Bridge,Low
+FND-0120,AUD-036,Navigation and Bridge,Low
+FND-0121,AUD-036,Safety Equipment,Low
+FND-0122,AUD-036,Emergency Preparedness,High
+FND-0123,AUD-036,Documentation and Records,Medium
+FND-0124,AUD-037,Documentation and Records,Medium
+FND-0125,AUD-037,Emergency Preparedness,High
+FND-0126,AUD-037,Crew Competence,Medium
+FND-0127,AUD-037,Documentation and Records,Medium
+FND-0128,AUD-038,Pollution Prevention,High
+FND-0129,AUD-038,Safety Equipment,Medium
+FND-0130,AUD-039,Maintenance,Low
+FND-0131,AUD-039,Pollution Prevention,Low
+FND-0132,AUD-039,Safety Equipment,Low
+FND-0133,AUD-039,Navigation and Bridge,Low
+FND-0134,AUD-039,Maintenance,Medium
+FND-0135,AUD-039,Documentation and Records,Low
+FND-0136,AUD-040,Emergency Preparedness,Medium
+FND-0137,AUD-043,Safety Equipment,Low
+FND-0138,AUD-043,Safety Equipment,Low
+FND-0139,AUD-044,Navigation and Bridge,High
+FND-0140,AUD-044,Pollution Prevention,High
+FND-0141,AUD-044,Documentation and Records,Low
+FND-0142,AUD-044,Safety Equipment,Low
+FND-0143,AUD-044,Emergency Preparedness,Low
+FND-0144,AUD-044,Documentation and Records,Medium
+FND-0145,AUD-045,Emergency Preparedness,Medium
+FND-0146,AUD-045,Crew Competence,Low
+FND-0147,AUD-046,Pollution Prevention,Medium
+FND-0148,AUD-046,Maintenance,High
+FND-0149,AUD-046,Crew Competence,Low
+FND-0150,AUD-046,Emergency Preparedness,Low
+FND-0151,AUD-047,Safety Equipment,Low
+FND-0152,AUD-047,Crew Competence,Low
+FND-0153,AUD-047,Emergency Preparedness,Medium
+FND-0154,AUD-049,Navigation and Bridge,Low
+FND-0155,AUD-049,Safety Equipment,Medium
+FND-0156,AUD-049,Safety Equipment,Low
+FND-0157,AUD-050,Maintenance,Medium
+FND-0158,AUD-050,Safety Equipment,Low
+FND-0159,AUD-050,Maintenance,Low
+FND-0160,AUD-050,Emergency Preparedness,Low
+FND-0161,AUD-051,Pollution Prevention,Medium
+FND-0162,AUD-051,Documentation and Records,Low
+FND-0163,AUD-051,Pollution Prevention,High
+FND-0164,AUD-051,Documentation and Records,Low
+FND-0165,AUD-052,Emergency Preparedness,Low
+FND-0166,AUD-052,Navigation and Bridge,Medium
+FND-0167,AUD-052,Safety Equipment,Medium
+FND-0168,AUD-053,Crew Competence,High
+FND-0169,AUD-056,Pollution Prevention,Low
+FND-0170,AUD-056,Emergency Preparedness,Low
+FND-0171,AUD-056,Maintenance,Medium
+FND-0172,AUD-057,Maintenance,Low
+FND-0173,AUD-057,Maintenance,Medium
+FND-0174,AUD-057,Safety Equipment,Medium
+FND-0175,AUD-057,Maintenance,Low
+FND-0176,AUD-057,Pollution Prevention,Medium
+FND-0177,AUD-058,Emergency Preparedness,Low
+FND-0178,AUD-058,Emergency Preparedness,Low
+FND-0179,AUD-058,Crew Competence,Medium
+FND-0180,AUD-058,Maintenance,Medium
+FND-0181,AUD-059,Pollution Prevention,Low
+FND-0182,AUD-059,Crew Competence,Low
+FND-0183,AUD-059,Maintenance,Low
+FND-0184,AUD-060,Crew Competence,Medium
+FND-0185,AUD-060,Safety Equipment,Low
